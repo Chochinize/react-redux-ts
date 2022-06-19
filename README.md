@@ -29,15 +29,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Intro template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://main.dlw0gg5ja69yi.amplifyapp.com/">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
